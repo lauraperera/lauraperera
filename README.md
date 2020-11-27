@@ -1,4 +1,4 @@
-## printf(" hello there \\o/ ") <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+## printf(" hello there \\o/ ") <img src="https://camo.githubusercontent.com/428851d1bd4c6424f4ab8451ac0cee48243ac66282dd67e1970643c3c5564947/68747470733a2f2f636f64656c656164696e672e636f6d2f696d6772647263742f68747470733a2f2f696d67636f6e766572742e6373646e696d672e636e2f6148523063484d364c793931634778765957526c6369357a61476c74627935706253396d4c3346435a6c4e7254584d305a33564e5a316874615749755a326c6d" width="27px">
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 
