@@ -5,7 +5,7 @@
 <p>⭐ UI and UX design enthusiast;</p>
 <p>⭐ Systems and business analyst;</p>
 <p>⭐ Analysis and systems development student;</p>
-<p>⭐ Account created to store my notes and share what I've learned;</p>
+<p>⭐ Account created to store my notes and share what I've learned!</p>
 
 
 <p></a><img src="https://github.com/anathayna/anathayna/blob/master/assets/nyancat.gif?raw=1" width="45vw"/> </p>
